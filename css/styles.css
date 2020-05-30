@@ -23,7 +23,13 @@ h2 {
 
 h3 {
   font-family: 'Montserrat', sans-serif;
-  color: #145374
+  color: #145374;
+}
+
+h4 {
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 2rem;
 }
 
 p {
